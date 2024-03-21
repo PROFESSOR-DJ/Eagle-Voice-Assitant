@@ -1,4 +1,4 @@
-# PowertoFly-Diversity-Hackathon
+# Eagle Voice Assistant 
 
 I have contributed a voice assistant system like google assistant and alexa with imporved features.
 
